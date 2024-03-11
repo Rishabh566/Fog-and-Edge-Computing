@@ -1,5 +1,3 @@
-2 
-
 Fog and Edge Computing 
 
 Rishabh Sinha             X21171203@student.ncirl.ie MSCLOUD\_23\_B 
@@ -31,12 +29,12 @@ The simulation results for the smart home security system includes the performan
 
 ![](Aspose.Words.1d34299f-8236-4b33-95f9-8cb903e5830b.001.png)![](Aspose.Words.1d34299f-8236-4b33-95f9-8cb903e5830b.002.png)
 
-`                `*Fig.1: Cloud Network Usage (kB)                               Fig.2: Fog Network Usage (kB)* 
+`                `*Fig.1: Cloud Network Usage (kB)`                `                   Fig.2: Fog Network Usage (kB)* 
 
 ![](Aspose.Words.1d34299f-8236-4b33-95f9-8cb903e5830b.003.png)![](Aspose.Words.1d34299f-8236-4b33-95f9-8cb903e5830b.004.png)
 
-*Fig.3: Cloud Latency                                                                     Fig.4: Fog Latency*
+`                `*Fig.3: Cloud Latency   `                `                                Fig.4: Fog Latency*
 
 ![](Aspose.Words.1d34299f-8236-4b33-95f9-8cb903e5830b.005.png) ![](Aspose.Words.1d34299f-8236-4b33-95f9-8cb903e5830b.006.png)
 
-`                       `*Fig.5: Fog Vs Cloud Latency                                        Fig.6: Fog Vs Cloud Network usage*                              
+`                       `*Fig.5: Fog Vs Cloud Latency          `                `          Fig.6: Fog Vs Cloud Network usage*                              
